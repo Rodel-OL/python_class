@@ -24,7 +24,7 @@ tema: RNA
 país: Rusia  
 año: 2021  
 
-![image-20211204002842701](C:\Users\OL\AppData\Roaming\Typora\typora-user-images\image-20211204002842701.png)
+![image-20211204010127452](C:\Users\OL\Desktop\python_class\tareas\image-20211204010127452.png)
 
 En la primera grafica vemos que el investigador Vzorov AN es  
 el autor que mas artículos tiene de esa tema en el año  
@@ -34,7 +34,7 @@ Mientras que en la segunda, vemos que si se cuentan todos los
 artículos de este tema relacionados a los autores sin el año,  
 vemos que la autora Sokolova TM es la que mas artículos tiene.  
 
-![image-20211204002904580](C:\Users\OL\AppData\Roaming\Typora\typora-user-images\image-20211204002904580.png)
+![image-20211204010033256](C:\Users\OL\Desktop\python_class\tareas\image-20211204010033256.png)
 
 #Conclusion  
 El programa cumple con el objetivo de mostrar a los autores mas  
